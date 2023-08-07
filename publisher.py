@@ -1,7 +1,3 @@
-"""
-pip install websocket-client
-pip install google-cloud-pubsub
-"""
 import websocket
 from google.cloud import pubsub_v1
 
